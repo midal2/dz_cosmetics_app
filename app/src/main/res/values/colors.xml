@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fce4ec</color>
+    <color name="colorPrimaryDark">#c9b2ba</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#FF4081</color>
+
+
+    <color name="favorite">#e1bee7</color>
+    <color name="unfavorite">#ef9a9a</color>
+    <color name="request">#b3e5fc</color>
+    <color name="news">#f0f4c3</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>
